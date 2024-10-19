@@ -1,1 +1,1 @@
-bic=sic tableview
+Example of basic tableview
